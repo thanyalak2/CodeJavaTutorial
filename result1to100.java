@@ -8,7 +8,7 @@ public class result1to100 {
         while (i <= 100) {
             sum += i;  
             i++;
-        }
+        }                                                                                               
         System.out.println("Sum = " +sum);
     }
 }
